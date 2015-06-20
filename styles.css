@@ -1,0 +1,79 @@
+body {
+	font-family: sans-serif;
+	color: #DE1B8D;
+	color: #444444;
+}
+
+header {text-align: center;
+		background: pink;
+			color:purple;
+}
+
+header img{
+	border: 3px solid #deeppink;
+	padding: 10px;
+
+}
+a{
+	color: #38A88F;
+}
+
+h1{color:Indigo;
+	font-size: 48px;
+}
+
+img {
+	border:2px dotted deeppink;
+}
+
+#about {
+	background: deeppink;
+}
+a {
+	font-family: sans-serif;
+	color: orange;
+}
+.links {
+	color:orange;
+	background: url(images/background.jpg);
+}
+.padded {
+	padding: 50px 100px;
+}
+#about h2 {border: 2px dotted;
+}
+.directions {
+	background: yellow;
+	Color: indigo;
+}
+.contact h2 {
+	color: #FFF;
+}
+.contact img{
+	width: 100px;
+	margin: 10px;
+	border-radius: 50%;
+	background: blue;
+}
+.contact img:hover {
+	opacity: 0.5;
+}
+ul.websites {
+	padding:0;
+}
+ul.websites li{
+	list-style-type: none;
+	display: inline-block;
+}
+.websites a {
+	background: #38A88F;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 24px;
+	display: block;
+}
+.websites a:hover {
+	background: #666;
+}
